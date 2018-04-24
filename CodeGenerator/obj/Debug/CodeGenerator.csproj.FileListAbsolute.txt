@@ -1,0 +1,14 @@
+E:\SourceCode\Work\DXApplication1\CodeGenerator\bin\Debug\CodeGenerator.exe
+E:\SourceCode\Work\DXApplication1\CodeGenerator\bin\Debug\CodeGenerator.pdb
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\MainWindow.baml
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\MainWindow.g.cs
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\CodeGenerator_MarkupCompile.cache
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\CodeGenerator.g.resources
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\CodeGenerator.csproj.GenerateResource.Cache
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\CodeGenerator.exe
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\CodeGenerator.pdb
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\CodeGenerator.frmNewConnection.resources
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\CodeGenerator.MainForm.resources
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\CodeGenerator_Content.g.cs
+E:\SourceCode\Work\DXApplication1\CodeGenerator\bin\Debug\Connections.xml
+E:\SourceCode\Work\DXApplication1\CodeGenerator\obj\Debug\CodeGenerator.frmOutputCode.resources

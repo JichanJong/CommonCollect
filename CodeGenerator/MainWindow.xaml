@@ -1,0 +1,15 @@
+﻿<Window x:Class="CodeGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="800">
+    <Grid>
+        <TextBox x:Name="txtConnectionString" HorizontalAlignment="Left" Height="23" Margin="153,10,0,0" TextWrapping="Wrap" Text="Data Source=.;Initial Catalog=EFDb;User ID=sa;Password=abc.12345;Pooling=true" VerticalAlignment="Top" Width="617" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="数据库连接字符串：" VerticalAlignment="Top" Width="138" Height="24" FontSize="14"/>
+        <Button Content="加载所有表" HorizontalAlignment="Left" Margin="10,39,0,0" VerticalAlignment="Top" Width="95" Height="33" x:Name="btnLoadAllTable" Click="btnLoadAllTable_Click"/>
+        <Button Content="测试连接" HorizontalAlignment="Left" Margin="153,39,0,0" VerticalAlignment="Top" Width="112" Height="33" x:Name="btnTestConnect" Click="btnTestConnect_Click"/>
+        <DataGrid HorizontalAlignment="Left" Margin="10,97,0,0" VerticalAlignment="Top" Height="266" Width="395" x:Name="dgTables"  IsReadOnly="True" CanUserAddRows="False">
+        </DataGrid>
+        <Button Content="生成代码" HorizontalAlignment="Left" Margin="303,39,0,0" VerticalAlignment="Top" Width="102" Height="33" x:Name="btnCreateCode" Click="btnCreateCode_Click"/>
+
+    </Grid>
+</Window>
