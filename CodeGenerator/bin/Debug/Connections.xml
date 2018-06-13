@@ -5,4 +5,5 @@
   <string>Data Source=172.16.96.56;Initial Catalog=NERP_TEST;User ID=erp;Password=erp.123</string>
   <string>Data Source=172.16.96.55\sql2014;Initial Catalog=GSP_TEST;User ID=csharp;Password=csharp.123</string>
   <string>Data Source=172.16.96.55\sql2014;Initial Catalog=GSPDev;User ID=csharp;Password=csharp.123</string>
+  <string>Data Source=.;Initial Catalog=EFDb2;Integrated Security=SSPI</string>
 </ArrayOfString>
